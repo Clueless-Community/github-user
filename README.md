@@ -6,7 +6,7 @@
 
 ```
 cd github-user
-chomd +x install.sh
+chmod +x install.sh
 bash install.sh
 ```
 
